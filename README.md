@@ -1,9 +1,6 @@
 # Author
-<<<<<<< HEAD
+
 >Nazarine Wasonga
-=======
-Nazarine Wasonga
->>>>>>> b81b5886be45c0debe09366ab7db8c15c51353ba
 
 # Quotes
 
