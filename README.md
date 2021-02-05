@@ -10,6 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This is an Angular application that allows user to see quotes, Up vote quotes , Down vote quotes, add their own quotes and be able to delete Quotes
 
 ## Live Page
+https://nazarinewasonga.github.io/Quotes/
 
 ## Development server
 
@@ -30,6 +31,12 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Technologies Used
+Html5
+Css3
+AngularCLI
+Bootstrap
 
 ## Further help
 
