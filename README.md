@@ -53,4 +53,9 @@ To contribute to Quotes, reach me on [Email](nazarinewasonga48@gmail.com)
 +  ["https://github.com/NazarineWasonga" ]
 
 
+## License
+
+>MIT LICENSE &copy; 2020 Nazarine
+
+
 
