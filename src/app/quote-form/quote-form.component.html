@@ -6,7 +6,10 @@
             <label for="description">Enter your Quote</label>
             <textarea class="form-control" id="quote" rows="4" [(ngModel)]="newQuote.name" name="name" #name="ngModel"
                 required></textarea>
+        <br />
+        <br />
         </div>
+
 
 
 
@@ -14,8 +17,8 @@
             <label for="name">Author</label>
             <input type="text" class="form-control" id="author" [(ngModel)]="newQuote.author" name="author"
                 #author='ngModel'>
-
-
+        <br />
+        <br />
         </div>
 
 
@@ -24,17 +27,32 @@
             <label for="name">Posted By</label>
             <input type="text" class="form-control" id="posted-by" [(ngModel)]="newQuote.postedBy" name="postedBy"
                 #postedBy='ngModel' required>
+        <br />
+        <br />
+    </div>
 
-        </div>
 
 
-        
+
+
         <div class="form-group">
             <label for="date">Posted On</label>
             <input type="date" id="date" [(ngModel)]="newQuote.postedOn" name="postedOn" #postedOn="ngModel">
-        </div>
+        <br />
+        <br />
+    </div>
+
+
         <button type="submit" class="btn btn-success">Add Quote</button>
     </form>
-
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    
 </div>
+
 <div>
+    <p>copyright&copy;2020</p>
+
