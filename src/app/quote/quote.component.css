@@ -15,7 +15,6 @@ h1{
 .card{
     padding: 20px;
     margin: 10px;
-    border-radius: 8%;
     box-shadow: 10px 8px 9px 9px rgba(253,253,253,0.75) inset;
 -webkit-box-shadow: 10px 8px 9px 9px rgba(253,253,253,0.75) inset;
 -moz-box-shadow: 10px 8px 9px 9px rgba(253,253,253,0.75) inset;
