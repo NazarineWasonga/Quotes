@@ -1,0 +1,19 @@
+<div class="container">
+    <h5>Author</h5>
+    <p>{{quote.author}}</p>
+    <h5>Posted By</h5>
+    <p>{{quote.postedBy}}</p>
+    <h5>Posted on</h5>
+    <p>{{quote.postedOn | date | uppercase }}</p>
+    <button (click)="upVote()" id="upvote"><i class="fa fa-thumbs-up fa-2x" style="color: green;"></i>{{
+ thumbsUp }}</button>
+
+    <button (click)="downVote()" id="downvote"><i class="fa fa-thumbs-down fa-2x"
+            style="color:rgba(255, 102, 0, 0.637);"></i> {{
+ thumbsDown }}</button>
+    <br>
+    <br>
+    <button (click)='quoteDelete(true)' class="btn btn-danger">Delete Quote</button>
+
+</div>
+
