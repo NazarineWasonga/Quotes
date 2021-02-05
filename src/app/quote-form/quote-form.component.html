@@ -1,6 +1,6 @@
 <div class="footer">
 <div class="container-fluid">
-    <h2>Add a Quote</h2>
+    <h2>Add a Quote Here!</h2>
     <form (ngSubmit)='submitQuote()' #quoteForm='ngForm'>
         <div class="form-group">
             <label for="description">Enter your Quote</label>
@@ -14,7 +14,7 @@
 
 
         <div class="form-group">
-            <label for="name">Author</label>
+            <label for="name">Quote Author</label>
             <input type="text" class="form-control" id="author" [(ngModel)]="newQuote.author" name="author"
                 #author='ngModel'>
         <br />
@@ -54,5 +54,5 @@
 </div>
 
 <div>
-    <p>copyright&copy;2020</p>
+   
 
