@@ -1,21 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.topnav{
+    box-shadow: 39px 11px 24px 3px rgba(0,0,0,1);
+-webkit-box-shadow: 39px 11px 24px 3px rgba(0,0,0,1);
+-moz-box-shadow: 39px 11px 24px 3px rgba(0,0,0,1);
+}
 h1{
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
     font-size: 50px;
-    color: rgb(36, 36, 51);
+    color: white;
+    font-family: 'Roboto', sans-serif;
 }
 .card{
     padding: 20px;
     margin: 10px;
     border-radius: 8%;
+    box-shadow: 10px 8px 9px 9px rgba(253,253,253,0.75) inset;
+-webkit-box-shadow: 10px 8px 9px 9px rgba(253,253,253,0.75) inset;
+-moz-box-shadow: 10px 8px 9px 9px rgba(253,253,253,0.75) inset;
+color: white;
+font-size: 30px;
+
+    
 }
 #form{
     margin-top: 50px;
     margin-bottom: 50px;
     background-color: rgba(255, 255, 255, 0.8);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.20);
     padding: 15px;
+    float: inline-start;
+    
 }
 .button{
     margin-left: 38%;
