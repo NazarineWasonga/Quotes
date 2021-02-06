@@ -13,7 +13,7 @@ h1{
     font-family: 'Roboto', sans-serif;
 }
 .card{
-    padding: 20px;
+    padding: 70px;
     margin: 10px;
     box-shadow: 10px 8px 9px 9px rgba(253,253,253,0.75) inset;
 -webkit-box-shadow: 10px 8px 9px 9px rgba(253,253,253,0.75) inset;
@@ -33,6 +33,7 @@ font-size: 30px;
 }
 .button{
     margin-left: 38%;
+    
 }
 .form-control{
     width: 100%;
