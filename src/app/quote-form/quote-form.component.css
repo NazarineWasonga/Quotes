@@ -1,6 +1,7 @@
 h2{
     text-transform: uppercase;
     font-style: oblique;
+
 }
 .form-group {
   background: -webkit-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
@@ -23,5 +24,9 @@ h2{
   -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
   box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
 }
-
+.form-control{
+  padding: 20px;
+  width: 1000px;
+  height: 5px;
+}
 

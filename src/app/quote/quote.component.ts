@@ -8,7 +8,7 @@ import { Quote } from '../quote';
 })
 export class QuoteComponent implements OnInit {
   quotes: Quote[] = [
-    new Quote(1,`"The greatest glory in living lies not in never falling, but in rising every time we fall."`,`Nelson`,`Nelson Mandela`, new Date(2021,1,7), 0,0),
+    new Quote(1,`"The greatest glory in living lies not in never falling, but in rising every time we fall."`,`Nelson`,`Mourine Marly`, new Date(2021,1,7), 0,0),
 
     new Quote(2,`"If you look at what you have in life, you will always have more.If you look at what you do not have in life, you will never have enough."`,`Oprah`,`Oprah Winfrey`, new Date(2021,1,29),0,0),
 

@@ -2,12 +2,11 @@ h5{
     font-size: 25px;
     font-weight: 500;
     margin-top: 10px;
-    
 }
 
 p{
     font-size: 20px;
-    font-weight: 100;
+    font-weight: 10px;
     
 }
 
@@ -25,4 +24,5 @@ p{
 
 i{
     font-size: 30px;
+    padding: 10px;
 }
