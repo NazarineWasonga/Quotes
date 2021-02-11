@@ -20,8 +20,6 @@ h1{
 -moz-box-shadow: 10px 8px 9px 9px rgba(253,253,253,0.75) inset;
 color:white;
 font-size: 30px;
-
-    
 }
 #form{
     margin-top: 50px;
@@ -42,7 +40,4 @@ font-size: 30px;
 }
 .row{
     padding: 10px;
-}
-btn-secondary{
-color: tomato;
 }
